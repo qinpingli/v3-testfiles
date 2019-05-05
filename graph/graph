@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "version": "4.1.0-0.nightly-2019-05-04-193457",
+      "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:0684ff4af4d26f93a9a0b637c986a502d0bc482c956d0a03da49f4240e841c8e"
+    },
+    {
+      "version": "4.1.0-0.nightly-2019-05-04-190728",
+      "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:0a7db70325f03a1b6238726add66e29c283c59429808c89ef84a45cea79db7a5"
+    },
+    {
+      "version": "4.1.0-0.nightly-2019-05-04-070249",
+      "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:cde268b49cfd92264e0d441974ee3a53e38d575a642ae830596f95b49be7bb5a"
+    }
+  ],
+  "edges": [
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      3
+    ]
+  ]
+}
